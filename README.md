@@ -1,2 +1,5 @@
-# neural-networks
-Exploration of different neural networks
+# Neural Networks
+Exploration of different neural networks.
+
+* Holtzmann machine
+* Restricted Holtzmann machine
